@@ -8,38 +8,40 @@
 
 ## **About the project**
 
-* Inspired in how [Discord](https://discord.com/) implemented a real-time messaging, video communication, and VoIP application, this is my attempt to create something similar, open-sourced.
+- Inspired in how [Discord](https://discord.com/) implemented a real-time messaging, video communication, and VoIP application, this is my attempt to create something similar, open-sourced.
 
 ---
 
 ## **Planned Architecture**
 
-* **Asynchronous**
-  * To maximize performance, the app should be fully asynchronous.
+- **Asynchronous**
 
-* **Modular**
-  * To be fully feature-customizable, each components/features should be as loosely coupled as possible.
+  - To maximize performance, the app should be fully asynchronous.
 
-* **Microservice Pattern**
-  * To improve scalability, each components/features should be running as a service
+- **Modular**
+
+  - To be fully feature-customizable, each components/features should be as loosely coupled as possible.
+
+- **Microservice Pattern**
+  - To improve scalability, each components/features should be running as a service
 
 ---
 
 ## **Installation**
 
-* Coming soon!
+- Coming soon!
 
 ---
 
 ## **Usage**
 
-* Coming soon!
+- Coming soon!
 
 ---
 
 ## **Screenshots**
 
-* Coming soon!
+- Coming soon!
 
 ---
 
@@ -69,4 +71,4 @@ Watch the changes in the '**[CHANGELOG.md](CHANGELOG.md)**' file.
 
 _Made with a lot of ❤️❤️ by **[@alvitoraidhy](https://github.com/alvitoraidhy)**_
 
-commune-server was generated from *[Josee9988/project-template](https://github.com/Josee9988/project-template)* 📚
+commune-server was generated from _[Josee9988/project-template](https://github.com/Josee9988/project-template)_ 📚
