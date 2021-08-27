@@ -1,0 +1,41 @@
+{
+  "name": "commune-server",
+  "version": "0.0.1",
+  "description": "An open-source messaging platform",
+  "private": true,
+  "type": "module",
+  "exports": "./lib/index.js",
+  "engines": {
+    "node": "^12.20.0 || ^14.13.1 || >=16.0.0"
+  },
+  "scripts": {
+    "build": "tsc --project tsconfig.prod.json",
+    "lint": "eslint .",
+    "format": "prettier --write .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alvitoraidhy/commune-server.git"
+  },
+  "keywords": [
+    "messaging",
+    "platform"
+  ],
+  "author": "Alvito Raidhy",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/alvitoraidhy/commune-server/issues"
+  },
+  "homepage": "https://github.com/alvitoraidhy/commune-server#readme",
+  "devDependencies": {
+    "@types/node": "^16.7.3",
+    "@typescript-eslint/eslint-plugin": "^4.29.3",
+    "@typescript-eslint/parser": "^4.29.3",
+    "eslint": "^7.32.0",
+    "eslint-config-prettier": "^8.3.0",
+    "prettier": "^2.3.2",
+    "typescript": "^4.4.2"
+  },
+  "dependencies": {}
+}
