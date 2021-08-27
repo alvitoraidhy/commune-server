@@ -1,108 +1,72 @@
-<!-- markdownlint-disable MD032 MD033-->
-<!-- Write your README.md file. Build something amazing! This README.md template can guide you to build your project documentation, but feel free to modify it as you wish 🥰 -->
-# 🔥 **alvitoraidhy/commune-server**
+# **alvitoraidhy/commune-server**
 
-<div align="center">
-  <!-- Change your logo -->
-  <a href="https://github.com/alvitoraidhy/commune-server">
-    <img width="100%" src="https://i.imgur.com/SVvgxJF.png" alt="@alvitoraidhy/commune-server's logo">
-  </a>
-  <br>
-  <a href="https://github.com/alvitoraidhy/commune-server/issues">
-    <img src="https://img.shields.io/github/issues/alvitoraidhy/commune-server?color=0088ff&style=for-the-badge&logo=github" alt="alvitoraidhy/commune-server's issues"/>
-  </a>
-  <a href="https://github.com/alvitoraidhy/commune-server/pulls">
-    <img src="https://img.shields.io/github/issues-pr/alvitoraidhy/commune-server?color=0088ff&style=for-the-badge&logo=github"  alt="alvitoraidhy/commune-server's pull requests"/>
-  </a>
-</div>
+[![issues](https://img.shields.io/github/issues/alvitoraidhy/commune-server)](https://github.com/alvitoraidhy/commune-server/issues)
+[![pulls](https://img.shields.io/github/issues-pr/alvitoraidhy/commune-server)](https://github.com/alvitoraidhy/commune-server/pulls)
+[![license](https://img.shields.io/github/license/alvitoraidhy/commune-server)](LICENSE)
 
 ---
 
-## 🤔 **About the project**
+## **About the project**
 
-* <!-- ... [WHY DID YOU CREATED THIS PROJECT?, MOTIVATION, PURPOSE, DESCRIPTION, OBJECTIVES, etc] -->
-
----
-
-## ⚡ **Installation**
-
-* <!-- ... [SHOW HOW YOUR PROJECT IS INSTALLED] -->
+* Inspired in how [Discord](https://discord.com/) implemented a real-time messaging, video communication, and VoIP application, this is my attempt to create something similar, open-sourced.
 
 ---
 
-## 🚀 **Usage**
+## **Planned Architecture**
 
-* <!-- ... [SHOW HOW YOUR PROJECT IS USED] -->
+* **Asynchronous**
+  * To maximize performance, the app should be fully asynchronous.
 
----
+* **Modular**
+  * To be fully feature-customizable, each components/features should be as loosely coupled as possible.
 
-## 🌲 **Project tree**
-
-<!-- ... [SHOW YOUR PROJECT TREE HERE IF USEFUL] -->
-
----
-
-## 📝 **Additional notes**
-
-* <!-- ... [ADD ADDITIONAL NOTES] -->
+* **Microservice Pattern**
+  * To improve scalability, each components/features should be running as a service
 
 ---
 
-## 📸 **Screenshots**
+## **Installation**
 
-<!-- ... [SOME DESCRIPTIVE IMAGES] -->
-
----
-
-## 🍰 **Supporters and donators**
-
-<!-- Change your small logo -->
-<a href="https://github.com/alvitoraidhy/commune server">
-  <img alt="@alvitoraidhy/commune server's brand logo without text" align="right" src="https://i.imgur.com/3qK1sie.png" width="18%" />
-</a>
-
-
-We are currently looking for new donators to help and maintain this project! ❤️
-
-By donating, you will help the development of this project, and *you will be featured in this commune-server's README.md* so everyone can see your kindness and visit your content ⭐.
-
-<a href="https://github.com/sponsors/alvitoraidhy"> <!-- MODIFY THIS LINK TO YOUR MAIN DONATING SITE IF YOU ARE NOT IN THE GITHUB SPONSORS PROGRAM -->
-  <img src="https://img.shields.io/badge/Sponsor-alvitoraidhy/commune server-blue?logo=github-sponsors&style=for-the-badge&color=red">
-</a>
-
-<!-- LINK TO YOUR DONATING PAGES HERE -->
+* Coming soon!
 
 ---
 
-commune-server was generated from *[Josee9988/project-template](https://github.com/Josee9988/project-template)* 📚
+## **Usage**
+
+* Coming soon!
 
 ---
 
-## 🕵️ Extra recommendations
+## **Screenshots**
 
-* <!-- If you recommend installing anything special, or if you recommend using X thing for the good use of your project...-->
-
----
-
-## 🎉 Was the backend helpful? Help us raise these numbers up
-
-[![Github followers](https://img.shields.io/github/followers/alvitoraidhy.svg?style=social)](https://github.com/alvitoraidhy)
-[![Github stars](https://img.shields.io/github/stars/alvitoraidhy/commune-server.svg?style=social)](https://github.com/alvitoraidhy/commune-server/stargazers)
-[![Github watchers](https://img.shields.io/github/watchers/alvitoraidhy/commune-server.svg?style=social)](https://github.com/alvitoraidhy/commune-server/watchers)
-[![Github forks](https://img.shields.io/github/forks/alvitoraidhy/commune-server.svg?style=social)](https://github.com/alvitoraidhy/commune-server/network/members)
-<!-- MODIFY THIS LINK TO YOUR MAIN DONATING SITE IF YOU ARE NOT IN THE GITHUB SPONSORS PROGRAM -->
-[![Sponsor](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=github-sponsors&color=red&style=social)](https://github.com/sponsors/alvitoraidhy)
-
-Enjoy! 😃
+* Coming soon!
 
 ---
 
-## ⚖️📝 **License and Changelog**
+## **License and Changelog**
 
-See the license in the '**[LICENSE](LICENSE)**' file.
+    Commune Server - An open-source messaging platform
+    Copyright (C) 2021  Alvito Raidhy Trinanda
+
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
+See the full license in the '**[LICENSE](LICENSE)**' file.
 
 Watch the changes in the '**[CHANGELOG.md](CHANGELOG.md)**' file.
 
 ---
 
 _Made with a lot of ❤️❤️ by **[@alvitoraidhy](https://github.com/alvitoraidhy)**_
+
+commune-server was generated from *[Josee9988/project-template](https://github.com/Josee9988/project-template)* 📚
