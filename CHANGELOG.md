@@ -1,5 +1,5 @@
 <!-- markdownlint-disable MD024-->
-# **Change Log** 📜📝
+# **Change Log**
 
 All notable changes to the "**commune-server**" backend will be documented in this file.
 
